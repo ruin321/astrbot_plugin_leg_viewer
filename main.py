@@ -5,7 +5,7 @@ from astrbot.api import AstrBotConfig
 import httpx
 import json
 
-@register("astrbot_plugin_leg_viewer", "ruin311", "这看看腿 多是一件美事啊😋😋😋", "1.0.0", "https://github.com/AstrBotDevs/astrbot_plugin_leg_viewer")
+@register("astrbot_plugin_leg_viewer", "ruin311", "这看看腿 多是一件美事啊😋😋😋", "1.0.0", "https://github.com/ruin321/astrbot_plugin_leg_viewer")
 class LegViewerPlugin(Star):
     """
     看看腿插件
