@@ -1,6 +1,6 @@
 # 看看腿插件
 
-![GitHub stars](https://img.shields.io/github/stars/ruin321/astrbot_plugin_leg_viewer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ruin321/astrbot_plugin_leg_viewer?label=Stars&style=flat-square&color=brightgreen)
 
 ## 插件信息
 
