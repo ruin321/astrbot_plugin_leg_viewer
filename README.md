@@ -1,6 +1,6 @@
 # 看看腿插件
 
-<img src="https://count.getloli.com/@nagatoquin33?name=nagatoquin33&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter">
+![GitHub stars](https://img.shields.io/github/stars/ruin321/astrbot_plugin_leg_viewer?style=social)
 
 ## 插件信息
 
