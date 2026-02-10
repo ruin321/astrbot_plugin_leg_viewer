@@ -1,0 +1,40 @@
+{
+  "enabled": {
+    "description": "启用看看腿插件",
+    "type": "bool",
+    "default": true,
+    "hint": "开启后可以使用 /看看腿 和 /kkt 命令"
+  },
+  "api_key": {
+    "description": "图床API密钥",
+    "type": "string",
+    "default": "qq249663924",
+    "hint": "默认使用提供的密钥"
+  },
+  "api_url": {
+    "description": "图床API地址",
+    "type": "string",
+    "default": "https://www.onexiaolaji.cn/RandomPicture/api",
+    "hint": "默认使用提供的API地址"
+  },
+  "default_class": {
+    "description": "默认分类ID",
+    "type": "string",
+    "default": "",
+    "hint": "不填则使用随机分类，可选值：101-104"
+  },
+  "custom_classes": {
+    "description": "自定义分类ID列表",
+    "type": "text",
+    "default": "101\n102\n103\n104",
+    "hint": "每行一个分类ID，可添加更多自定义分类"
+  },
+  "timeout": {
+    "description": "API请求超时时间",
+    "type": "int",
+    "default": 10,
+    "minimum": 5,
+    "maximum": 30,
+    "hint": "API请求的最大超时时间（秒）"
+  }
+}
