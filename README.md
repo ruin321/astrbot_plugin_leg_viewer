@@ -1,3 +1,4 @@
+# 使用前请注意！ 本插件的图床是一个公共的网站 导致会有概率刷新到部分或少量nsfw内容 请注意！
 # 看看腿插件
 
 <div style="text-align: center; margin: 20px 0;">
