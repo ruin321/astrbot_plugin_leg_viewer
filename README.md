@@ -1,5 +1,28 @@
-# 此插件的图库可能会包含部分甚至更多的nsfw内容！ 并且有的输出的有时候也不是腿 请注意！
 # 看看腿插件
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://github.com/ruin321/astrbot_plugin_leg_viewer" target="_blank" style="
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px 30px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    transition: all 0.3s ease;
+  " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(102, 126, 234, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(102, 126, 234, 0.3)';">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+    </svg>
+    <span>GitHub Stars</span>
+    <img src="https://img.shields.io/github/stars/ruin321/astrbot_plugin_leg_viewer?style=flat&color=white&label=" alt="GitHub Stars">
+  </a>
+</div>
 
 ## 插件信息
 
